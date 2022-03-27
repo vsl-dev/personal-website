@@ -20,7 +20,7 @@ It is forbidden to delete the footer part below! If those who do are detected, g
 
 # Links
 
-- Website - [vslde.tk](https://vsldev.tk)
+- Website - [vsldev.tk](https://vsldev.tk)
 - Instagram - [vsl.dev](https://vsldev.tk/instagram)
 - Github - [vsl-dev](https://vsldev.tk/github)
 - Discord - [VSL | Offical Server](https://vsldev.tk/discord)
